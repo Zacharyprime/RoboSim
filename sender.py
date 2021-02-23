@@ -3,7 +3,7 @@
 import socket
 import time
 
-TCP_IP = '127.0.0.1'
+TCP_IP = '192.168.125.1'
 TCP_PORT = 5005
 BUFFER_SIZE = 20  # Normally 1024, but we want fast response
 
